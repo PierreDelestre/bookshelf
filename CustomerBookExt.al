@@ -5,6 +5,7 @@ tableextension 50100 CustomerBookExtension extends Customer
         field(50100; "Favourite Book No."; Code[20])
         {
             Caption = 'Favourite Book No.';
+            TableRelation = Book."No.";
             DataClassification = ToBeClassified;
         }
     }

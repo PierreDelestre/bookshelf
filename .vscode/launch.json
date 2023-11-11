@@ -8,7 +8,7 @@
             "tenant": "7388c671-84fa-479a-aa3b-8f246fa92ab2",
             "environmentType": "Sandbox",
             "environmentName": "Sandbox",
-            "startupObjectId": 22,
+            "startupObjectId": 50101,
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
